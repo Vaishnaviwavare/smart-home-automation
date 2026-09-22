@@ -146,5 +146,5 @@ _Add a short video/GIF here showing the app controlling the relay and the
 gas/motion alert firing — recruiters engage with this far more than code._
 
 ---
-**Author:** Your Name
-**Contact:** your.email@example.com | [LinkedIn](#)
+**Author:** Vaishnavi Wavare
+**Contact:** vaishnaviwavare29@gmail.com.com 
